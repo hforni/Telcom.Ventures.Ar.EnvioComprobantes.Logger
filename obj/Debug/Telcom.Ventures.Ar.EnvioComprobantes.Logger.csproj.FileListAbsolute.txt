@@ -1,0 +1,12 @@
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.dll
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.pdb
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.dll
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.Sinks.File.dll
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.xml
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.Sinks.File.xml
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\obj\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.csprojAssemblyReference.cache
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\obj\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.csproj.CopyComplete
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\obj\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.dll
+C:\Fuentes\Telcom.Ventures.Ar.EnvioComprobantes.Logger\Telcom.Ventures.Ar.EnvioComprobantes.Logger\obj\Debug\Telcom.Ventures.Ar.EnvioComprobantes.Logger.pdb
